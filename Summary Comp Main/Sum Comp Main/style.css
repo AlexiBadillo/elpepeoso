@@ -28,3 +28,39 @@ body {
   align-items: center;
   gap: 1rem;
 }
+
+.container {
+  width: 650px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 15px;
+  box-shadow: hsl(241, 100%, 89%) 2px 3px 5px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.container-1 {
+  width: 50%;
+  padding: 1.5rem 2rem;
+  background: linear-gradient(hsl(252, 100%, 67%),hsl(241, 81%, 54%));
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}.container {
+  width: 650px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 15px;
+  box-shadow: hsl(241, 100%, 89%) 2px 3px 5px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.container-1 {
+  width: 50%;
+  padding: 1.5rem 2rem;
+  background: linear-gradient(hsl(252, 100%, 67%),hsl(241, 81%, 54%));
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
